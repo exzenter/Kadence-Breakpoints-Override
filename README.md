@@ -4,12 +4,12 @@ A WordPress plugin that allows you to customize the responsive breakpoints used 
 
 ## Features
 
-- 🎯 **Custom Tablet Breakpoint** - Set a custom pixel width for the tablet breakpoint (default: 1024px)
-- 📱 **Custom Mobile Breakpoint** - Set a custom pixel width for the mobile breakpoint (default: 767px)
-- 🚀 **No Build Tools Required** - 100% PHP-based, no npm, webpack, or any build process needed
-- ✅ **Update Safe** - Works independently of Kadence, survives theme and plugin updates
-- 🎨 **Frontend Only** - Only affects the public site, Gutenberg editor preview remains unchanged
-- 💡 **Clean & Lightweight** - Minimal code, no bloat, follows WordPress coding standards
+- **Custom Tablet Breakpoint** - Set a custom pixel width for the tablet breakpoint (default: 1024px)
+- **Custom Mobile Breakpoint** - Set a custom pixel width for the mobile breakpoint (default: 767px)
+- **No Build Tools Required** - 100% PHP-based, no npm, webpack, or any build process needed
+- **Update Safe** - Works independently of Kadence, survives theme and plugin updates
+- **Frontend Only** - Only affects the public site, Gutenberg editor preview remains unchanged
+- **Clean & Lightweight** - Minimal code, no bloat, follows WordPress coding standards
 
 ## Installation
 
