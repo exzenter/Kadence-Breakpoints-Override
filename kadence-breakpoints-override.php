@@ -5,7 +5,7 @@
  * Description: Override frontend breakpoint pixel widths for Kadence without builds. Provides an admin page to set breakpoints and injects the CSS on the frontend. NOTE: This only affects the public site (frontend). The Gutenberg editor preview remains unchanged.
  * Version: 1.1.0
  * Author: Your Name
- * Author URI: https://your-website.com
+ * Author URI: https://exzent.de
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: kadence-breakpoints-override
